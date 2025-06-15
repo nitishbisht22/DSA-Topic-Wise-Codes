@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/missing-number/
+
 import java.util.Arrays;
 
 public class missingNumber {
